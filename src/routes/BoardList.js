@@ -38,5 +38,5 @@ const BoardList = () => {
         </div>
     );
 };
-
+//비교중
 export default BoardList;
